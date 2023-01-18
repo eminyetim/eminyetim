@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eminyetim
-- 👀 Veri Yapıları.
-- 🌱  Java  , sql ,html5 ,css ,javaScript
+- 👀 Data Structure and Algorithms
+- 🌱 c , c++ , c# , sql 
 - 💞️ I’m looking to collaborate on .
 - 📫 eminyetim25@gmial.com
 
