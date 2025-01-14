@@ -40,7 +40,6 @@ Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminyetim&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=eminyetim&theme=onedark&row=1&no-frame=true" alt="eminyetim's trophies" width="48%" />
 </p>
 
 ---
