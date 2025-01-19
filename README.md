@@ -35,7 +35,6 @@ Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim
 
 ## 📈 GitHub İstatistikleri
 
-> **Not**: Kartların doğru veriyi çekebilmesi için `username=` parametresini kendi GitHub kullanıcı adınıza göre düzenlemeyi unutmayın.
 
 
 <p align="center">
