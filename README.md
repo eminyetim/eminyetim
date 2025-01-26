@@ -31,17 +31,8 @@ Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim
 
 ---
 
-## 📈 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminyetim&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ## 🤝 İletişim
 
-- **GitHub**: [https://github.com/eminyetim](https://github.com/eminyetim)
 - **LinkedIn**: [https://www.linkedin.com/in/eminyetim/](https://www.linkedin.com/in/eminyetim/)
 - **E-posta**: [eminyetim25@gmail.com](mailto:eminyetim25@gmail.com)
 
