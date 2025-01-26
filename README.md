@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Muhammed Emin YETİM!
 
-Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim kazanan bir geliştiriciyim. Aşağıda sıklıkla kullandığım teknolojileri ve alanları bulabilirsiniz:
+Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim kazanan bir geliştiriciyim.
 
 ---
 
@@ -35,6 +35,4 @@ Ben, yazılım geliştirme alanında farklı teknolojilerle çalışarak deneyim
 
 - **LinkedIn**: [https://www.linkedin.com/in/eminyetim/](https://www.linkedin.com/in/eminyetim/)
 - **E-posta**: [eminyetim25@gmail.com](mailto:eminyetim25@gmail.com)
-
-> Daha fazla bilgi ve projelerim için GitHub profilime göz atabilirsiniz. Her türlü soru ve iş birliği için iletişime geçmekten çekinmeyin!
 
